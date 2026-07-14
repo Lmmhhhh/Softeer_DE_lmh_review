@@ -1,4 +1,5 @@
 # W3M2b - Understanding of Hadoop Configuration Files
+1팀 팀원 - 이승연, 이민하, 박민서, 홍준성
 
 ### 이승연
 
